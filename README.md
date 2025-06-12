@@ -70,7 +70,7 @@ Visualizations were used to compare model performances.
 
 - `Bank_Churn_Prediction.ipynb` – Main Jupyter Notebook with code, EDA, model training, and visualizations.
 - `README.md` – Project overview and documentation.
-- `dataset.csv` – Input dataset (if included).
+- `dataset.csv` – Input dataset.
 
 ---
 
